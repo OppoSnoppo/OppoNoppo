@@ -29,18 +29,14 @@ Software Developer Student
                     </p>
                     
 
-                  ### Socials
+### Socials
                   
-                  <p align="left"> <a href="https://www.github.com/opponoppo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/opponoppo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
+<p align="left"> <a href="https://www.github.com/opponoppo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/opponoppo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 <a href="http://www.github.com/opponoppo"><img src="https://github-readme-stats.vercel.app/api?username=opponoppo&show_icons=true&hide=&title_color=ffffff&text_color=64748b&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="opponoppo's GitHub stats" /></a>
 
 <a href="http://www.github.com/opponoppo"><img src="https://activity-graph.herokuapp.com/graph?username=opponoppo&bg_color=1c1917&color=64748b&line=14b8a6&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
+<b>Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/opponoppo/op-duty" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=opponoppo&repo=op-duty&title_color=ffffff&text_color=64748b&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
