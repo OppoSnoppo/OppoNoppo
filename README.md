@@ -35,7 +35,7 @@ Software Developer Student
 
 <a href="http://www.github.com/OppoNoppo"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=opponoppo&show_icons=true&hide=&title_color=ffffff&text_color=64748b&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="opponoppo's GitHub stats" /></a>
 
-<a href="http://www.github.com/opponoppo"><img src="https://activity-graph.herokuapp.com/graph?username=opponoppo&bg_color=1c1917&color=64748b&line=14b8a6&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/OppoNoppo"><img src="https://activity-graph.herokuapp.com/graph?username=OppoNoppo&bg_color=1c1917&color=64748b&line=14b8a6&point=64748b&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Repositories</b>
 
