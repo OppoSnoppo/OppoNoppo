@@ -1,4 +1,4 @@
-Hi 👋 My name is Oppo Noppo
+Hi 👋 
 ===========================
 
 Software Developer Student
