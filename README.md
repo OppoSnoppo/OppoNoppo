@@ -1,4 +1,2 @@
 Hi 👋 
-===========================
-
-Software Developer Student
+====
